@@ -33,5 +33,5 @@ Each solution in this file corresponds to a unique SQL challenge, addressing var
 🎯 You can use this as a reference for structuring your own queries.  
 
 
-# I hope this repository helps you in your SQL journey! 😊🚀
+### I hope this repository helps you in your SQL journey! 😊🚀
 
