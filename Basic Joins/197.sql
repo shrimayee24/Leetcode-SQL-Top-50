@@ -1,3 +1,4 @@
+-- Problem #197: Find weather records where temperature is higher than the previous day
 SELECT w1.id 
 FROM Weather w1
 JOIN Weather w2 
