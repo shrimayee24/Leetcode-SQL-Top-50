@@ -1,6 +1,10 @@
 # 💻🧠 LeetCode Top 50 SQL Questions Solutions 🧠💻
 
-Welcome to my repository! 🎉 This project contains solutions to the **Top 50 SQL Questions** from LeetCode, aimed at strengthening SQL querying skills. 💪 Each solution in this file corresponds to a unique SQL challenge, addressing various aspects of database management. 🗄️
+Welcome to my repository! 🎉 
+
+This project contains solutions to the **Top 50 SQL Questions** from LeetCode, aimed at strengthening SQL querying skills. 💪 
+
+Each solution in this file corresponds to a unique SQL challenge, addressing various aspects of database management. 🗄️
 
 ## What's Inside? 📂
 
