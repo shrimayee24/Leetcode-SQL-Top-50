@@ -17,12 +17,15 @@ Welcome to my repository! 🎉 This project contains solutions to the **Top 50 S
 ## Purpose 🎯
 
 ☑️ This repository documents my journey through LeetCode’s SQL challenges as I work to enhance my database management skills.  
+
 ☑️ It serves as a personal learning log and a resource for others looking to improve their SQL querying techniques.
 
 ## How to Use 📑
 
 📂Every heading consists of the topics covered in the sheet.
+
 📂 Subheadings consist of problem number and its description along with query given below it.
+
 🎯 You can use this as a reference for structuring your own queries.  
 
 
