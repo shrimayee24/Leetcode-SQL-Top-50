@@ -1,10 +1,6 @@
 --Select
 
--- Problem #1537: Find products that are both low fat and recyclable
-SELECT product_id 
-FROM Products 
-WHERE low_fats = 'Y' 
-  AND recyclable = 'Y';
+
 
 -- Problem #584: Find customers who either have no referee or their referee is not 2
 SELECT name 
