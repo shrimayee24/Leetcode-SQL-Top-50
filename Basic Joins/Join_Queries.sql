@@ -34,3 +34,10 @@ FROM Activity s JOIN Activity e ON
     s.activity_type = 'start' AND e.activity_type = 'end'
     GROUP BY s.machine_id
 
+--Problem #577: Employee Bonus
+# Write your MySQL query statement below
+SELECT e.name,b.bonus 
+FROM Employee e
+LEFT JOIN Bonus b ON e.empId=b.empId 
+WHERE b.bonus<1000 OR b.bonus IS NULL
+
