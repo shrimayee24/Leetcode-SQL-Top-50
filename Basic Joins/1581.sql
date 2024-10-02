@@ -1,3 +1,4 @@
+-- Problem #1581: Count number of visits without a transaction per customer
 SELECT v.customer_id, COUNT(v.visit_id) AS count_no_trans 
 FROM Visits v
 LEFT JOIN Transactions t 
