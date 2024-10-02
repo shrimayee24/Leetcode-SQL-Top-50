@@ -25,3 +25,13 @@ left join EmployeeUNI EU on EU.id=E.id
 select P.product_name,S.year,S.price
  from Sales as S
 join Product as P on S.product_id=P.product_id
+
+#1581:
+select v.customer_id,count(v.visit_id) as count_no_trans from Visits v
+left join Transactions t on t.visit_id=v.visit_id where t.transaction_id is null
+group by v.customer_id
+
+#197:
+select w1.id from Weather w1
+join Weather w2 on w1.recordDate=date_add(w2.recordDate,interval 1 day)
+where w1.temperature>w2.temperature
