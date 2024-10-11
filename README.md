@@ -18,6 +18,8 @@ Each solution in this file corresponds to a unique SQL challenge, addressing var
 
 🧩 **Subqueries and Nested Queries**: Handling multi-step queries using subqueries for more complex data retrieval 📥.
 
+📄 **Detailed Comments**: I have added line-by-line comments as a detailed explaination for bringing further clarity in understanding.
+
 ## Purpose 🎯
 
 ☑️ This repository documents my journey through LeetCode’s SQL challenges as I work to enhance my database management skills.  
