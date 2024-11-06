@@ -1,8 +1,14 @@
 # 💻🗄️ LeetCode Top 50 SQL Questions Solutions 🗄️💻
+[leetcode_sql_50_badge](https://github.com/user-attachments/assets/3d8997a5-247d-4648-8951-d3fe6cde0165) 
+
+https://github.com/user-attachments/assets/daf9cd13-5485-4613-837d-6c8ed434a41c
+
+
+
 
 Welcome to my repository! 🎉 
 
-This project contains solutions to the **Top 50 SQL Questions** from LeetCode, aimed at strengthening SQL querying skills. 🧠💪 
+This project contains solutions to **all** the **Top 50 SQL Questions** from LeetCode, aimed at strengthening SQL querying skills. 🧠💪 
 
 Each solution in this file corresponds to a unique SQL challenge, addressing various aspects of database management. 💾 🔄
 
