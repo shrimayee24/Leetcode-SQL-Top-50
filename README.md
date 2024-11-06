@@ -33,10 +33,11 @@ Each solution in this file corresponds to a unique SQL challenge, addressing var
 
 📄 Files within directories are named with respective problem number for easier searching.🔍
 
-🎯 You can use this as a reference for structuring your own queries.  
+🎯 You can use this as a reference for structuring your own queries. 
 
+![Top_SQL_50](https://github.com/user-attachments/assets/086f8a39-445f-4de1-a7ac-dc2d98c145c8)
 
 ### I hope this repository helps you in your SQL journey! 😊🚀
 
-![Top_SQL_50](https://github.com/user-attachments/assets/086f8a39-445f-4de1-a7ac-dc2d98c145c8)
+
 
