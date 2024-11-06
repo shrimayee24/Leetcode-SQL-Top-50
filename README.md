@@ -7,8 +7,6 @@ This project contains solutions to **all** the **Top 50 SQL Questions** from Lee
 
 Each solution in this file corresponds to a unique SQL challenge, addressing various aspects of database management. 💾 🔄
 
-![Top_SQL_50](https://github.com/user-attachments/assets/086f8a39-445f-4de1-a7ac-dc2d98c145c8)
-
 ## What's Inside? 📂
 
 📝 **Filtering and Conditional Queries**: Queries that demonstrate how to retrieve specific records based on conditions using `WHERE`❓, `AND` ⚙️, `OR` ⚖️, and `NOT` 🚫 operators.
@@ -39,4 +37,6 @@ Each solution in this file corresponds to a unique SQL challenge, addressing var
 
 
 ### I hope this repository helps you in your SQL journey! 😊🚀
+
+![Top_SQL_50](https://github.com/user-attachments/assets/086f8a39-445f-4de1-a7ac-dc2d98c145c8)
 
