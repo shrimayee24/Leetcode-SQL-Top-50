@@ -1,4 +1,5 @@
-# 💻🗄️ LeetCode Top 50 SQL Questions Solutions 🗄️💻
+# 💻🗄️ LeetCode Top 50 SQL Questions Solutions 🗄️💻<img src="https://github.com/user-attachments/assets/38868185-3faf-464c-baed-e689e25fd4cc" width="50" height="50 />
+
 ![leetcode_sql_50_badge](https://github.com/user-attachments/assets/3d8997a5-247d-4648-8951-d3fe6cde0165) 
 
 Welcome to my repository! 🎉 
